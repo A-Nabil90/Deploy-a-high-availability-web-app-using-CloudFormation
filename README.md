@@ -6,7 +6,6 @@
 
 ## The files consist of:
 ```sh
-* /Screenshots of Stack : Screenshots of the deployment results.
 * /Udagram Diagram : Diagram of the infrastructure.
 * create-stack-iac.sh : Cloudformation create stack script.
 * delete-stack-iac.sh : Cloudformation delete stack script.
@@ -15,10 +14,6 @@
 * network-parameters.json : Udagram Project's CloudFormation network script parameters.
 * server-parameters.json : Udagram Project's CloudFormation servers script parameters.
 ```
-
-## Load Balancer URL:
-> Please find the URL of the load balancer with the end result of the index.html with the message required:
-> http://udagr-webap-1vnaepzwv8eoi-1728482200.us-east-1.elb.amazonaws.com/
 
 
 ## Instruction for deployment:
